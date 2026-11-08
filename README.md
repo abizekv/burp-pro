@@ -12,5 +12,6 @@ sudo ./install.sh
 
 ## fix icon for gnome
 ```
-sudo cp icon.svg /usr/share/burpsuitepro/
+sudo cp icon.svg /usr/share/burpsuitepro
 cp burpsuitepro.desktop ~/.local/share/applications
+```
