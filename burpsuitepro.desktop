@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Burp Suite Professional
+Exec=burpsuitepro
+Icon=/usr/share/burpsuitepro/icon.svg
+Terminal=false
+StartupWMClass=burp-StartBurp
