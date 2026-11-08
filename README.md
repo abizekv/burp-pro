@@ -1,4 +1,6 @@
 # burp-pro
+## prerequisites
+java 21 (exact version)
 
 ## installation steps
 ```
